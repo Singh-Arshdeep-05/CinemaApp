@@ -1,0 +1,78 @@
+[
+  {
+    "Regista": "Christopher Nolan",
+    "Attori": [
+      "Leonardo DiCaprio",
+      "  Cillian Murphy"
+    ],
+    "Titolo": "Inception",
+    "AnnoDiUscita": 2010
+  },
+  {
+    "Regista": "Christopher Nolan",
+    "Attori": [
+      "Cillian Murphy",
+      "Robert Downey Jr.",
+      "Emily Blunt",
+      "Florence Pugh",
+      "Matt Damon"
+    ],
+    "Titolo": "Oppenheimer",
+    "AnnoDiUscita": 2023
+  },
+  {
+    "Regista": "Christopher Nolan",
+    "Attori": [
+      "Matthew McConaughey",
+      "Jessica Chastain",
+      "Anne Hathaway",
+      "Timoth\u00E9e Chalamet"
+    ],
+    "Titolo": "Interstellar",
+    "AnnoDiUscita": 2014
+  },
+  {
+    "Regista": "Morten Tyldum",
+    "Attori": [
+      "Benedict Cumberbatch",
+      "Keira Knightley"
+    ],
+    "Titolo": "The Imitation Game",
+    "AnnoDiUscita": 2014
+  },
+  {
+    "Regista": "Damien Chazelle",
+    "Attori": [
+      "Ryan Gosling",
+      "Emma Stone"
+    ],
+    "Titolo": "La La Land",
+    "AnnoDiUscita": 2016
+  },
+  {
+    "Regista": "Todd Phillips",
+    "Attori": [
+      "Joaquin Phoenix"
+    ],
+    "Titolo": "Joker",
+    "AnnoDiUscita": 2019
+  },
+  {
+    "Regista": "Alfonso Cuar\u00F3n",
+    "Attori": [
+      "Sandra Bullock"
+    ],
+    "Titolo": "Gravity",
+    "AnnoDiUscita": 2013
+  },
+  {
+    "Regista": "John G. Avildsen",
+    "Attori": [
+      "Sylvester Stallone",
+      "Carl Weathers",
+      "Talia Shire"
+    ],
+    "Titolo": "Rocky",
+    "AnnoDiUscita": 1977
+  }
+]
